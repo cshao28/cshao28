@@ -22,9 +22,8 @@
 
 ## 🚀 Projects & Experience
 
-- **Amazon Reviews & Sales Analysis** - Scraped and analyzed Amazon product data using **Python** and **R** to study how ratings and review counts non-linearly affect monthly sales.
-- **Brexit Statistical Analysis** – Applied statistical modeling techniques in **R** to study political and economic impacts.  
-
+- **[Amazon Reviews & Sales Analysis](./Amazon-scrapy)** – Scraped and analyzed Amazon product data using **Python** and **R** to study how ratings and review counts non-linearly affect monthly sales.  
+- **[Brexit Referendum Analysis](./Brexit_referendum_project)** – Applied statistical modeling techniques in **R** to study political and economic impacts.
 
 ---
 
