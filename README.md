@@ -1,10 +1,13 @@
 # Hi there 👋, I'm Chuyan Shao
+---
+🌌 **Data Analyst & AI Enthusiast** | Experienced in **Python**, **R**, **SQL**, **SAS**  
+🎓 **BSc Mathematics & Statistical Science, UCL (First Class)**  
+💡 Currently learning Large-Scale Data Engineering, Advanced Machine Learning, and AI Modeling  
+📍 **Tokyo, Japan**
 
-I'm a data enthusiast with a strong background in **Mathematics and Statistics**. I enjoy solving complex problems using **Python, R, and SQL**, and applying statistical and machine learning methods to real-world data.
+
 
 ---
-
-## 🔧 Skills & Tools
 
 
 ## 🔧 Skills & Tools
@@ -21,8 +24,7 @@ I'm a data enthusiast with a strong background in **Mathematics and Statistics**
 
 - **Amazon Reviews & Sales Analysis** - Scraped and analyzed Amazon product data using **Python** and **R** to study how ratings and review counts non-linearly affect monthly sales.
 - **Brexit Statistical Analysis** – Applied statistical modeling techniques in **R** to study political and economic impacts.  
-- **SQL-Based Data Analysis Internship** – Analyzed customer behavior and risk at Ningbo Bank using **SQL**.  
-- **AI & Automation Projects** – Developing Python scripts to automate data workflows and predictive modeling tasks.  
+
 
 ---
 
